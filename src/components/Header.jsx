@@ -12,7 +12,7 @@ const Header = () => {
             <a className="navegacion__link" href="#inicio">
               Inicio
             </a>
-            <a className="navegacion__link" href="#servicios">
+            <a className="navegacion__link" href="#experiencia">
               Experiencia
             </a>
 

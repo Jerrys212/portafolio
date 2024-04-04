@@ -1,7 +1,7 @@
 const Inicio = () => {
     return (
         <>
-            <section className="inicio ">
+            <section className="inicio">
                 <div className="inicio__grid ">
                     <div className="inicio__descripcion">
                         <h2 className="inicio__heading">¡Hola Soy Gerardo!</h2>

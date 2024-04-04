@@ -5,7 +5,7 @@ import FlipCard from "./FlipCard";
 
 const Experiencia = () => {
     return (
-        <main className="experiencia contenedor">
+        <main className="experiencia contenedor" id="experiencia">
             <h2 className="experiencia__heading">Experiencia</h2>
             <div className="experiencia__grid">
                 <FlipCard empleo={`Transportes Telo`} descripcion={``} imagen={telo} />
